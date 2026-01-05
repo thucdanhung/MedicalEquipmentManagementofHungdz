@@ -1,7 +1,8 @@
 # HỆ THỐNG QUẢN LÝ THIẾT BỊ Y TẾ (MEDICAL EQUIPMENT MANAGEMENT)
 
 ## Thông tin dự án
-- **Sinh viên:** [Tên của bạn]
+- **Sinh viên:** Vũ Việt Hùng
+- **MSSV:** 202514168
 - **Ngôn ngữ:** C++11
 - **Kiến trúc:** Phân tách File Header (.h) và Source (.cpp).
 
@@ -18,4 +19,5 @@ Dùng g++:
 g++ src/*.cpp -I include -o medical_app
                                            author of this project
                                                    Hung
+
                                            Vu Viet Hung 202514168
